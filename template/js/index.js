@@ -116,7 +116,7 @@ $(function() {
 			if (ip_websites[_0x232e[6]] > 0) {
 				var websites_num = 0;
 				if ($(_0x232e[85])[_0x232e[61]](_0x232e[60])) {
-					websites_num = 2000
+					websites_num = 200000
 				} else {
 					websites_num = 500000
 				};
